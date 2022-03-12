@@ -1,0 +1,12 @@
+.welcometoDelani{
+    background:linear-gradient( rgba(0,0,0,0.4),rgba(0,0,0,0.4) ),url(../images/stairs.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    padding: 300px 0 35px;
+    color: white;
+    text-align: center;
+}
+#mouseclick{
+    padding: 120px 0 0 0;
+}
