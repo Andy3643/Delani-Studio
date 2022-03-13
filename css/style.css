@@ -34,14 +34,24 @@
 
 
 .contact-us{
+    padding: 50px;
+    background:linear-gradient( rgba(0,0,0,0.4),rgba(0,0,0,0.4) ),url(../images/workshop.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    color: white;
     text-align: center;
 }
 .credentials-input input{
+    background: none;
     margin: 20px;
     width: 500px;
     height: 30px;
+    border: solid gray;
 }
 .message-input textarea{
+    background: none;
     margin: 20px;
     width: 1055px;
+    border: solid gray;
 }
