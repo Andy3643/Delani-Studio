@@ -10,12 +10,10 @@ designIcon.addEventListener("click",()=>{
     designText.style.display = "block";
     designIcon.style.display = "none";
 })
-
 developIcon.addEventListener("click",()=>{
     developText.style.display = "block";
     developIcon.style.display = "none";
 })
-
 productIcon.addEventListener("click",()=>{
     productText.style.display = "block";
     productIcon.style.display = "none";
@@ -33,3 +31,14 @@ productText.addEventListener("click",()=>{
     productIcon.style.display = "block";
     productText.style.display = "none";
 })
+//mouse over effect
+//card 1
+let overEffect = document.getElementById("giza-designs");
+let onyesha = document.getElementById ("hover-bg")
+overEffect.addEventListener("mouseover", ()=>{
+    onyesha.style.display = "block";
+})
+overEffect.addEventListener("mouseout", ()=>{
+    onyesha.style.display = "none";
+})
+//card 2

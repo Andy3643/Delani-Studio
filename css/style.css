@@ -52,10 +52,150 @@
     padding: 50px;
     text-align: center;
 }
-.portfolio img{
+/* .portfolio img{
     height: 35vh;
     margin: 15px;
+} */
+.rowone{
+    display: flex;
+    justify-content: space-around;
 }
+/* card1 */
+#giza-designs{
+    position: relative;
+    height: 40vh;
+    width: 20vw;
+    
+    
+}
+#giza-designs img{
+    height: 100%;
+    width: 100%;
+}
+#hover-bg{
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(37, 202, 202);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    object-fit: fill;
+    display: none;
+}
+#giza-txt{
+    position: absolute;
+    background-color: rgb(231, 23, 23);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    border: solid 5px green;
+    margin: 120px 60px;
+    padding: 10px;
+}
+/* card2 */
+#ontonio-security{
+    position: relative;
+    height: 40vh;
+    width: 20vw; 
+}
+#ontonio-security img{
+    height: 100%;
+    width: 100%;
+}
+#ontonio-bg{
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(37, 202, 202);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    object-fit: fill;
+    /* display: none; */
+}
+#ontonio-txt{
+    position: absolute;
+    background-color: rgb(231, 23, 23);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    border: solid 5px green;
+    margin: 120px 60px;
+    padding: 10px;
+}
+/* card 3 */
+#orange-diamonds{
+    position: relative;
+    height: 40vh;
+    width: 20vw;
+}
+#orange-diamonds img{
+    height: 100%;
+    width: 100%;
+}
+#orange-bg{
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(37, 202, 202);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    object-fit: fill;
+    /* display: none; */
+}
+#orange-txt{
+    position: absolute;
+    background-color: rgb(231, 23, 23);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    border: solid 5px green;
+    margin: 120px 60px;
+    padding: 10px;
+}
+/* card 4 */
+#phone-app{
+    position: relative;
+    height: 40vh;
+    width: 20vw; 
+}
+#phone-app img{
+    height: 100%;
+    width: 100%;
+}
+#phone-bg{
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(37, 202, 202);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    object-fit: fill;
+    /* display: none; */ 
+}
+#phone-txt{
+    position: absolute;
+    background-color: rgb(231, 23, 23);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    border: solid 5px green;
+    margin: 120px 60px;
+    padding: 10px;
+}
+
+
 
 
 
