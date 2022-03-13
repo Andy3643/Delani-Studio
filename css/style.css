@@ -116,7 +116,7 @@
     justify-content: center;
     align-items: center;
     object-fit: fill;
-    /* display: none; */
+    /* display: none; */ 
 }
 #ontonio-txt{
     position: absolute;
@@ -194,6 +194,143 @@
     margin: 120px 60px;
     padding: 10px;
 }
+.rowtwo{
+    display: flex;
+    justify-content: space-around;
+}
+/* card 5 */
+#elana-website{
+    position: relative;
+    height: 40vh;
+    width: 20vw;
+}
+#elana-website img{
+    height: 100%;
+    width: 100%;
+}
+#elana-bg{
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(37, 202, 202);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    object-fit: fill;
+    /* display: none; */ 
+}
+#elana-txt{
+    position: absolute;
+    background-color: rgb(231, 23, 23);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    border: solid 5px green;
+    margin: 120px 60px;
+    padding: 10px; 
+}
+/* card 6 */
+#word-press{
+    position: relative;
+    height: 40vh;
+    width: 20vw;
+}
+#word-press img{
+    height: 100%;
+    width: 100%;
+}
+#word-bg{
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(37, 202, 202);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    object-fit: fill;
+    /* display: none; */ 
+}
+#word-txt{
+    position: absolute;
+    background-color: rgb(231, 23, 23);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    border: solid 5px green;
+    margin: 120px 60px;
+    padding: 10px;
+}
+/* card 7 */
+#burned-coffee{
+    position: relative;
+    height: 40vh;
+    width: 20vw;
+}
+#burned-coffee img{
+    height: 100%;
+    width: 100%;
+}
+#burned-bg{
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(37, 202, 202);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    object-fit: fill;
+    /* display: none; */
+}
+#burned-txt{
+    position: absolute;
+    background-color: rgb(231, 23, 23);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    border: solid 5px green;
+    margin: 120px 60px;
+    padding: 10px;
+}
+/* card 8 */
+#giraffe-resturant{
+    position: relative;
+    height: 40vh;
+    width: 20vw;
+}
+#giraffe-resturant img{
+    height: 100%;
+    width: 100%;
+}
+#giraffe-bg{
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(37, 202, 202);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    object-fit: fill;
+    /* display: none; */
+}
+#giraffe-txt{
+    position: absolute;
+    background-color: rgb(231, 23, 23);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    border: solid 5px green;
+    margin: 120px 60px;
+    padding: 10px;
+}
+
 
 
 
