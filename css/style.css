@@ -1,4 +1,4 @@
-.welcometoDelani{
+.welcome-to-Delani{
     background:linear-gradient( rgba(0,0,0,0.4),rgba(0,0,0,0.4) ),url(../images/stairs.jpg);
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -10,7 +10,7 @@
 #mouseclick{
     padding: 120px 0 0 0;
 }
-.aboutus{
+.about-us{
     text-align: center;
 }
 .services{
@@ -22,10 +22,26 @@
     text-align: center;
     padding: 100px;
 }
-.whatwedo{
+.what-we-do{
     text-align: center;
 }
 .icons{
     display: flex;
     justify-content: space-around;
+}
+
+
+
+
+.contact-us{
+    text-align: center;
+}
+.credentials-input input{
+    margin: 20px;
+    width: 500px;
+    height: 30px;
+}
+.message-input textarea{
+    margin: 20px;
+    width: 1055px;
 }
