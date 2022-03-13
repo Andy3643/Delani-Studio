@@ -29,7 +29,9 @@
     display: flex;
     justify-content: space-around;
 }
-
+.portfolio{
+    text-align: center;
+}
 
 
 
@@ -48,10 +50,18 @@
     width: 500px;
     height: 30px;
     border: solid gray;
+    color: white;
 }
 .message-input textarea{
     background: none;
     margin: 20px;
     width: 1055px;
     border: solid gray;
+    color: white;
+}
+.social-media{
+    text-align: center;
+}
+.social-media img{
+    margin: 20px;
 }
