@@ -30,7 +30,12 @@
     justify-content: space-around;
 }
 .portfolio{
+    padding: 50px;
     text-align: center;
+}
+.portfolio img{
+    height: 35vh;
+    margin: 15px;
 }
 
 
