@@ -29,6 +29,16 @@
     display: flex;
     justify-content: space-around;
 }
+.design{
+    margin: 50px;
+}
+.develop{
+    margin: 50px;
+}
+
+.product{
+    margin: 50px;
+}
 .portfolio{
     padding: 50px;
     text-align: center;
