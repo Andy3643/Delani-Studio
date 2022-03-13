@@ -32,12 +32,21 @@
 .design{
     margin: 50px;
 }
+#our-design{
+    display: none;
+}
 .develop{
     margin: 50px;
+}
+#develop{
+    display: none;
 }
 
 .product{
     margin: 50px;
+}
+#product{
+    display: none;
 }
 .portfolio{
     padding: 50px;
