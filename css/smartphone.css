@@ -326,7 +326,7 @@
     .credentials-input input{
         background: none;
         margin: 20px;
-        width: 300px;
+        width: 75%;
         height: 30px;
         border: solid gray;
         color: white;
@@ -334,7 +334,7 @@
     .message-input textarea{
         background: none;
         margin: 20px;
-        width: 300px;
+        width: 75%;
         border: solid gray;
         color: white;
     }
