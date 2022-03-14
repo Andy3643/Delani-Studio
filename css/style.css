@@ -347,15 +347,15 @@
 .credentials-input input{
     background: none;
     margin: 20px;
-    width: 500px;
+    width: 34%;
     height: 30px;
     border: solid gray;
     color: white;
 }
-.message-input textarea{
+textarea{
     background: none;
     margin: 20px;
-    width: 1055px;
+    width: 72%;
     border: solid gray;
     color: white;
 }

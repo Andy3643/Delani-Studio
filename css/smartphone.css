@@ -1,4 +1,4 @@
-@media only screen and (max-width:390px){
+@media only screen and (max-width:768px){
     .welcome-to-Delani{
         background:linear-gradient( rgba(0,0,0,0.4),rgba(0,0,0,0.4) ),url(../images/stairs.jpg);
         background-repeat: no-repeat;
