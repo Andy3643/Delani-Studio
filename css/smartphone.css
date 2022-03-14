@@ -1,0 +1,384 @@
+@media only screen and (max-width:390px){
+    .welcome-to-Delani{
+        background:linear-gradient( rgba(0,0,0,0.4),rgba(0,0,0,0.4) ),url(../images/stairs.jpg);
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-size: cover;
+        padding:  15px 5px;
+        color: white;
+        text-align: center;
+    }
+    #mouseclick{
+        padding: 15px 0 0 0;
+    }
+    .about-us{
+        text-align: center;
+    }
+    .services{
+        background:linear-gradient( rgba(0,0,0,0.4),rgba(0,0,0,0.4) ),url(../images/keyboard.jpg);
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-size: cover;
+        color: white;
+        text-align: center;
+        padding: 10px;
+    }
+    .what-we-do{
+        text-align: center;
+    }
+    .icons{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .design{
+        margin: 10px;
+    }
+    #our-design{
+        display: none;
+    }
+    .develop{
+        margin: 10px;
+    }
+    #develop{
+        display: none;
+    }
+    
+    .product{
+        margin: 10px;
+    }
+    #product{
+        display: none;
+    }
+    .portfolio{
+        padding: 30px 0px;
+        text-align: center;
+    }
+
+    .rowone{
+        display: flex;
+        flex-direction: column;
+    }
+    /* card1 */
+    #giza-designs{
+        position: relative;
+        width: 90vw;
+        
+        
+    }
+    #giza-designs img{
+        height: 100%;
+        width: 100%;
+    }
+    #hover-bg{
+        position: absolute;
+        top: 0;
+        height: 100%;
+        width: 100%;
+        background-color: rgba(187, 189, 189, 0.7);
+        color: rgb(0, 0, 0);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        object-fit: fill;
+        display: none;
+    }
+    #giza-txt{
+        position: absolute;
+        background-color: rgb(183, 245, 245);
+        color: rgb(0, 0, 0);
+        font-size: 20px;
+        text-align: center;
+        /* margin: 120px 60px; */
+        padding: 10px;
+    } 
+    /* card2 */
+    #ontonio-security{
+        position: relative;
+        width: 90vw;
+    }
+    #ontonio-security img{
+        height: 100%;
+        width: 100%;
+    }
+    #ontonio-bg{
+        position: absolute;
+        top: 0;
+        height: 100%;
+        width: 100%;
+        background-color: rgba(187, 189, 189, 0.7);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        object-fit: fill;
+        display: none; 
+    }
+    #ontonio-txt{
+        position: absolute;
+        background: rgb(183, 245, 245);
+        color: rgb(0, 0, 0);
+        font-size: 20px;
+        text-align: center;
+        margin: 120px 60px; 
+         padding: 10px;
+    }
+    /* card 3 */
+    #orange-diamonds{
+        position: relative;
+        width: 90vw;
+    }
+    #orange-diamonds img{
+        height: 100%;
+        width: 100%;
+    }
+    #orange-bg{
+        position: absolute;
+        top: 0;
+        height: 100%;
+        width: 100%;
+        background-color: rgba(187, 189, 189, 0.7);
+        color: rgb(0, 0, 0);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        object-fit: fill;
+        display: none;
+    }
+    #orange-txt{
+        position: absolute;
+        background-color: rgb(183, 245, 245);
+        color: rgb(0, 0, 0);
+        font-size: 20px;
+        text-align: center;
+        margin: 120px 60px;
+        padding: 10px;
+    }
+    /* card 4 */
+    #phone-app{
+        position: relative;
+        width: 90vw;
+    }
+    #phone-app img{
+        height: 100%;
+        width: 100%;
+    }
+    #phone-bg{
+        position: absolute;
+        top: 0;
+        height: 100%;
+        width: 100%;
+        background-color: rgba(187, 189, 189, 0.7);
+        color: rgb(0, 0, 0);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        object-fit: fill;
+        display: none; 
+    }
+    #phone-txt{
+        position: absolute;
+        background-color: rgb(183, 245, 245);
+        color: rgb(0, 0, 0);
+        font-size: 20px;
+        text-align: center;
+        margin: 120px 60px;
+        padding: 10px;
+    }
+    .rowtwo{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    /* card 5 */
+    #elana-website{
+        position: relative;
+        width: 90vw;
+    }
+    #elana-website img{
+        height: 100%;
+        width: 100%;
+    }
+    #elana-bg{
+        position: absolute;
+        top: 0;
+        height: 100%;
+        width: 100%;
+        background-color: rgba(187, 189, 189, 0.7);
+        color: rgb(0, 0, 0);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        object-fit: fill;
+        display: none; 
+    }
+    #elana-txt{
+        position: absolute;
+        background-color: rgb(183, 245, 245);
+        color: rgb(0, 0, 0);
+        font-size: 20px;
+        text-align: center;
+        margin: 120px 60px;
+        padding: 10px; 
+    }
+    /* card 6 */
+    #word-press{
+        position: relative;
+        width: 90vw;
+    }
+    #word-press img{
+        height: 100%;
+        width: 100%;
+    }
+    #word-bg{
+        position: absolute;
+        top: 0;
+        height: 100%;
+        width: 100%;
+        background-color: rgba(187, 189, 189, 0.7);
+        color: rgb(0, 0, 0);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        object-fit: fill;
+        display: none; 
+    }
+    #word-txt{
+        position: absolute;
+        background-color: rgb(183, 245, 245);
+        color: rgb(0, 0, 0);
+        font-size: 20px;
+        text-align: center;
+        margin: 120px 60px;
+        padding: 10px;
+    }
+    /* card 7 */
+    #burned-coffee{
+        position: relative;
+        width: 90vw;
+    }
+    #burned-coffee img{
+        height: 100%;
+        width: 100%;
+    }
+    #burned-bg{
+        position: absolute;
+        top: 0;
+        height: 100%;
+        width: 100%;
+        background-color: rgba(187, 189, 189, 0.7);
+        color: rgb(0, 0, 0);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        object-fit: fill;
+        display: none;
+    }
+    #burned-txt{
+        position: absolute;
+        background-color: rgb(183, 245, 245);
+        color: rgb(0, 0, 0);
+        font-size: 20px;
+        text-align: center;
+        margin: 120px 60px;
+        padding: 10px;
+    }
+    /* card 8 */
+    #giraffe-resturant{
+        position: relative;
+        width: 90vw;
+    }
+    #giraffe-resturant img{
+        height: 100%;
+        width: 100%;
+    }
+    #giraffe-bg{
+        position: absolute;
+        top: 0;
+        height: 100%;
+        width: 100%;
+        background-color: rgba(187, 189, 189, 0.7);
+        color: rgb(0, 0, 0);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        object-fit: fill;
+        display: none;
+    }
+    #giraffe-txt{
+        position: absolute;
+        background-color: rgb(183, 245, 245);
+        color: rgb(0, 0, 0);
+        font-size: 20px;
+        text-align: center;
+        margin: 120px 60px;
+        padding: 10px;
+    }
+
+    .contact-us{
+        padding: 50px 0;
+        background:linear-gradient( rgba(0,0,0,0.4),rgba(0,0,0,0.4) ),url(../images/workshop.jpg);
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-size: cover;
+        color: white;
+        text-align: center;
+    }
+    .credentials-input input{
+        background: none;
+        margin: 20px;
+        width: 300px;
+        height: 30px;
+        border: solid gray;
+        color: white;
+    }
+    .message-input textarea{
+        background: none;
+        margin: 20px;
+        width: 300px;
+        border: solid gray;
+        color: white;
+    }
+    #submit{
+        background: turquoise;
+        height: 40px;
+        font-weight: bold;
+    }
+    .social-media{
+        text-align: center;
+    }
+    .social-media img{
+        margin: 20px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
