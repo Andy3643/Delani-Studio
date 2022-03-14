@@ -23,7 +23,7 @@
 * JS - making the webpage more interactive to the user.
 
 ## Live Link
-#### Delani Studio - ()
+#### Delani Studio - (https://andy3643.github.io/Delani-Studio/)
 
 [Go Back to the top](#Delani-Studio)
 
