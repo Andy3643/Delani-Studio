@@ -1,3 +1,6 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .welcome-to-Delani{
     background:linear-gradient( rgba(0,0,0,0.4),rgba(0,0,0,0.4) ),url(../images/stairs.jpg);
     background-repeat: no-repeat;
@@ -52,10 +55,6 @@
     padding: 50px 180px;
     text-align: center;
 }
-/* .portfolio img{
-    height: 35vh;
-    margin: 15px;
-} */
 .rowone{
     display: flex;
     justify-content: space-around;
@@ -65,9 +64,7 @@
     position: relative;
     height: 40vh;
     width: 20vw;
-    margin: 10px;
-    
-    
+    margin: 10px;  
 }
 #giza-designs img{
     height: 100%;
@@ -329,12 +326,6 @@
     margin: 120px 60px;
     padding: 10px;
 }
-
-
-
-
-
-
 .contact-us{
     padding: 50px;
     background:linear-gradient( rgba(0,0,0,0.4),rgba(0,0,0,0.4) ),url(../images/workshop.jpg);
