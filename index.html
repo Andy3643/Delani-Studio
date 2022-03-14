@@ -141,11 +141,16 @@
 <div class="contact-us">
     <h2>CONTACT US</h2>
     <div class="credentials-input">
-        <input type="text" placeholder="Name">
-        <input type="text" placeholder="Email">
+        <form class="formfill" action="https://formspree.io/f/xbjwklja" method="post">
+            <input name="name" type="text" placeholder="Name" required>
+            <input name="email" type="text" placeholder="Email adress" required>
+        </form>
     </div>
     <div class="message-input">
-        <textarea name="" id="" cols="30" rows="15" placeholder="Your message here..."></textarea>
+        <form class="formfill" action="https://formspree.io/f/xbjwklja" method="post">
+            <textarea name="message" id="" cols="30" rows="15" placeholder="Your message here..."></textarea>
+         </form>
+         <button id="submit">SEND MESSAGE</button>
     </div>
 </div>
 <div class="social-media">

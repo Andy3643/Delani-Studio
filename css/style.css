@@ -359,6 +359,11 @@
     border: solid gray;
     color: white;
 }
+#submit{
+    background: turquoise;
+    height: 40px;
+    font-weight: bold;
+}
 .social-media{
     text-align: center;
 }

@@ -104,3 +104,13 @@ overEffect8.addEventListener("mouseover",()=>{
 overEffect8.addEventListener("mouseout",()=>{
     showGirraffeResturant.style.display ="none";
 })
+//link button
+let button = document.getElementById("submit");
+button.addEventListener("mouseover",()=>{
+    button.style.background = "green"
+    button.style.color = "white"
+})
+button.addEventListener("mouseout",()=>{
+    button.style.background = "turquoise"
+    button.style.color = "black"
+})
